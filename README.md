@@ -1,2 +1,2 @@
 # IntToRomanNumerals
-Convert Integers To Roman Numerals
+A Simple Function That Converts Integers To Roman Numerals
